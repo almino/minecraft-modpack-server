@@ -1,0 +1,13 @@
+name = "DirectionHUD"
+filename = "directionhud-fabric-1.4.2+1.20-1.20.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/H8WCXRtb/versions/CujOW56t/directionhud-fabric-1.4.2%2B1.20-1.20.2.jar"
+hash-format = "sha1"
+hash = "e7711a12aafe6d48a2b48d0043b2cb6fd1792515"
+
+[update]
+[update.modrinth]
+mod-id = "H8WCXRtb"
+version = "CujOW56t"

@@ -1,0 +1,13 @@
+name = "Gloppers!"
+filename = "gloppers-1.0.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/yz1kFKTL/versions/aEzEf9Sh/gloppers-1.0.1.jar"
+hash-format = "sha1"
+hash = "8338c0aacbdb9b4add17d432275425fda7162e15"
+
+[update]
+[update.modrinth]
+mod-id = "yz1kFKTL"
+version = "aEzEf9Sh"

@@ -1,1 +1,196 @@
 hash-format = "sha256"
+
+[[files]]
+file = "mods/adaptiveview.pw.toml"
+hash = "8c9b7ff880043ca0c527ce6f51ef23f3f9e530f421cd23c27c5305e446e78b31"
+metafile = true
+
+[[files]]
+file = "mods/anvil-restoration.pw.toml"
+hash = "bb64653f393deecd9045e200a13764c4259acaecc5741cab6de5ea63dc5231f6"
+metafile = true
+
+[[files]]
+file = "mods/automodpack.pw.toml"
+hash = "e99ffd2aee42abec8d292cc48cab440dc56ff09fc0db0d51c6b57f7b86be0396"
+metafile = true
+
+[[files]]
+file = "mods/better-beacon-placement.pw.toml"
+hash = "6c32d1318b2d3e0332f7fc690d8e26d18a0bb6e83c48ee710b30702d4e17c548"
+metafile = true
+
+[[files]]
+file = "mods/better-conduit-placement.pw.toml"
+hash = "926446e1192372f37947a73ad4e8ca042a52c72774ae810f89946f7c129effe9"
+metafile = true
+
+[[files]]
+file = "mods/better-fabric-console.pw.toml"
+hash = "bcac9bb680ef83b99bacc8e96bd4f77372f5360d49083ad4d53a6b0412f386ed"
+metafile = true
+
+[[files]]
+file = "mods/better-spawner-control.pw.toml"
+hash = "3c5b0d3ebfef4b6887e537505f648dbbf4c63da91ebbb724ae5cdb2854ad9308"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "b6348f94ec939f563285dc96683e61da8fc17ab2f2897be2751fa24789513691"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "ce687b5880e14a15a6c568db9e0676a5e2f210198c109f56426e71a50b13a165"
+metafile = true
+
+[[files]]
+file = "mods/directionhud.pw.toml"
+hash = "33b1a05e32a6fd779edba059c9e83e96741d4b1f0db31d2a3f7891328673a1f7"
+metafile = true
+
+[[files]]
+file = "mods/dismount-entity.pw.toml"
+hash = "dff7d55d6cf7f676aee2b59d4f23024caab1ad20576982b46643ef5d74eb423e"
+metafile = true
+
+[[files]]
+file = "mods/double-doors.pw.toml"
+hash = "c02a955a040a1ecdfdbe9573ffd0c5a252c51560871f068becbcfd713b386b16"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "4eec3de8a58a6e64ea96e31781b52f70b4b33ec02a34a45f171e3a1e6697ba86"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "36b3e3375a645a376264836683a508d7fa2e555fb55f173bb7fe4571ca15702f"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "6f95b9e670d557f852a798489d7b5ec48ed8ddc7e8e1809ff06d4b187d17aac9"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "03e174cf691b52da20bd973b955fae6f3720d3d2120f9d6cc1de5fdf3180013c"
+metafile = true
+
+[[files]]
+file = "mods/gloppers.pw.toml"
+hash = "bac5666aac1b420d730eb2b76924ebf963bd68ec7ca552b7d5de0ca97fc50360"
+metafile = true
+
+[[files]]
+file = "mods/infinite-trading.pw.toml"
+hash = "f14eee0184d528d8081d36b4a0bc6680d787d7e10a375c3a824701278f4d04ec"
+metafile = true
+
+[[files]]
+file = "mods/inventory-totem.pw.toml"
+hash = "c2eb7e78e3d01c29b3bb7d930096859b1fb8e06d1670b9cef5d49f991ca3da10"
+metafile = true
+
+[[files]]
+file = "mods/just-mob-heads.pw.toml"
+hash = "c3b8d1937ea40a2328b93fe6b1923c08245d64e16a7e86601fed7879a5a06f36"
+metafile = true
+
+[[files]]
+file = "mods/just-player-heads.pw.toml"
+hash = "645f827db05d6869e4c674b61a5cf66dcd54c26a48c421e3f9e21a035a13bcb0"
+metafile = true
+
+[[files]]
+file = "mods/keep-my-soil-tilled.pw.toml"
+hash = "3656c914d4f5c03926e5b758b5b617fc5038be934a319dfecfa11561968e7f81"
+metafile = true
+
+[[files]]
+file = "mods/leaves-us-in-peace.pw.toml"
+hash = "57cae0b7139111e4c74b41efc9543e662bf7300344e01d8b13e67ee1b47d38b9"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "8e42842f48b3227733bafced612212eee2298f567ca599ac6a55b9878ae661da"
+metafile = true
+
+[[files]]
+file = "mods/replanting-crops.pw.toml"
+hash = "6c370d2bb8334183da9af84437b0f94386e1cb04f66b791b8abc4f363abb73be"
+metafile = true
+
+[[files]]
+file = "mods/respawning-shulkers.pw.toml"
+hash = "6c8e4770e21c303ddfb16e4f51d4a46770938587d4802bb0e636b2421057c69d"
+metafile = true
+
+[[files]]
+file = "mods/scaffolding-drops-nearby.pw.toml"
+hash = "d03b1d511dd17ebff76ce77c5133ec684ef48aa84334e1c4cac82b2ad533ca1a"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "b5a0689c8ca4d98adb7dfe35df4bc6a1dceac5c4b792e5fbb0ad5290991e2684"
+metafile = true
+
+[[files]]
+file = "mods/silence-mobs.pw.toml"
+hash = "9a5c577069608325e57c2d7277fd0175fc391b660aa1b2bfcdf20c51c7f49949"
+metafile = true
+
+[[files]]
+file = "mods/stack-refill.pw.toml"
+hash = "c7087f152b99b4f200086f151d2afb54aecc7d6d711aeaeaa3dc779312484385"
+metafile = true
+
+[[files]]
+file = "mods/status.pw.toml"
+hash = "eb879f3598aa2e6110ee290359f1572b01c7971fcfe351e3ad7d3252afdcf523"
+metafile = true
+
+[[files]]
+file = "mods/textile_backup.pw.toml"
+hash = "de89d4ffd14c02db24f737055f1f11b784bcb98e7e826efa4bc2329a962b4ba5"
+metafile = true
+
+[[files]]
+file = "mods/toggle-item-frames.pw.toml"
+hash = "3f00dc5b8070f0ce5be1febbd250cb69036b13267a2b37e9adcd21ad81513a05"
+metafile = true
+
+[[files]]
+file = "mods/tree-harvester.pw.toml"
+hash = "7abb44df595d8176b296678936304e7f6e046d704d365bf2df06b964f1a632fb"
+metafile = true
+
+[[files]]
+file = "mods/unloaded-activity.pw.toml"
+hash = "f57863fce099ada23eff10706c7a0dbed7487860a3c1f0858961af7541e946cd"
+metafile = true
+
+[[files]]
+file = "mods/view-distance-fix.pw.toml"
+hash = "d516609512f43f65777600e5ef45dacedd6b1c8bc5311b757b6c342999f1d8d5"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "bc0ca9370e45f2a1e6e76f8bb9cf556121dd46b513b7ac796758e3ebe69880ec"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "3da4278dce5b43b0e0288cea2f86b342aa231b4188d23f3462481afd6d50b197"
+metafile = true
+
+[[files]]
+file = "mods/your-items-are-safe.pw.toml"
+hash = "e9fc99724fb2d5cb665005dffda212cd331e0df312b4bfea824ae3aba58c3ad5"
+metafile = true
