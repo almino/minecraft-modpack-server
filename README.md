@@ -14,5 +14,5 @@ cd /Minecraft/Solo11
 
 ```sh
 java -jar /Minecraft/packwiz-installer-bootstrap.jar \
-http://localhost/packwiz/pack.toml
+http://localhost/packwiz/server/pack.toml
 ```
