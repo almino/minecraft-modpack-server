@@ -3,6 +3,7 @@
 
 pkgs.mkShell {
   packages = with pkgs; [
+    adoptopenjdk-jre-bin
     packwiz # https://packwiz.infra.link/
   ];
 }
