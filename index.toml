@@ -1,6 +1,138 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".direnv/nix-profile-.4112.5a237aecb572"
+hash = "d9587cbd25f36e94f8da2d1f326a7f9c1f4c2f93c478dc6e898c6ffb0da82810"
+
+[[files]]
+file = ".direnv/nix-profile-.4112.5a237aecb572.rc"
+hash = "3a4d286862216fef7951d5c5dacda5504046f9df59af04c72404300317b02472"
+
+[[files]]
+file = ".envrc"
+hash = "62fbcdefc5279c4af349ddf7770d4104d432e6faeff1afab121253bf8e36a677"
+
+[[files]]
+file = "README.md"
+hash = "21633eedf25cf049fbd42914178b30ae5aaa05faa3dd120e616b51b8a71f5cb7"
+
+[[files]]
+file = "config/DirectionHUD.properties"
+hash = "e09aa85911782dd21e26d3685d1cd0747dfa8c8cbdd33beb877b0a09d9526c3b"
+
+[[files]]
+file = "config/better-fabric-console.conf"
+hash = "7f74925194b4ffd9a985b5371d9e0e050620f88aa09e1729b8326682c82b97ed"
+
+[[files]]
+file = "config/better-suggestions.json5"
+hash = "c422e18bfedeeeffd0ee8ebdfa5485466e9c7f6b85cb8ead7fddfa37267a5868"
+
+[[files]]
+file = "config/betterbeaconplacement.json5"
+hash = "10810d85151ee49afaf93caf9fa6f6af457d6c8cc45f4094b23487ad64fcadf0"
+
+[[files]]
+file = "config/betterconduitplacement.json5"
+hash = "9fb86e980d7adc56fd4ed057e6c5eb75b71563ab798bd1fce8323435c821eae9"
+
+[[files]]
+file = "config/cardinal-components-api.properties"
+hash = "f7e7f346e0724cf9cfb77f44dec2e7d202ea2507729ec7b95ee6a8f089c82982"
+
+[[files]]
+file = "config/collective.json5"
+hash = "600046b205e20aa3a2ff5af8a66a202c00a97b1c27a6c0675211dbe11d4c0b5f"
+
+[[files]]
+file = "config/connectivity.json"
+hash = "64db15233b5135e7b1ff652278896570c6599e5421864488f3ad3573a340fa61"
+
+[[files]]
+file = "config/cupboard.json"
+hash = "eb7990d46c2afbc5f287b8e6e37ad4b8d9b28f8807e8ca701cc6698084db1307"
+
+[[files]]
+file = "config/doubledoors.json5"
+hash = "9f07b3f5a3a7286bbe6d940517134fd4512b16c5e4de1b262de58566f1c5f3e4"
+
+[[files]]
+file = "config/dynview.json"
+hash = "054f3e518d00586bdb4a708cf3104060bd93cbb592b2fd33efb7ab5d07074e34"
+
+[[files]]
+file = "config/ferritecore.mixin.properties"
+hash = "3cc3011619f098fda6ad213a7c4d1468802ff827591a5917c2b7bf3150bfb2ea"
+
+[[files]]
+file = "config/infinitetrading.json5"
+hash = "d9e247d4b521ec10f5c9719e67afceb7de7a70eeaa1ebdb4674384c31c75a711"
+
+[[files]]
+file = "config/justmobheads.json5"
+hash = "bdbd4e1c94ecc4c739ffe9daea89569abe1e7f21d20410cf529abcd008a99122"
+
+[[files]]
+file = "config/justmobheads/headchances.txt"
+hash = "705eb3d7ab71a8db9876111e1c60c0df69945fa7dce10823bedd6eb66d0b8e62"
+
+[[files]]
+file = "config/justplayerheads.json5"
+hash = "0066103463e1d26ef49829b5258682615aac02a0a12088283b94fea1879392e6"
+
+[[files]]
+file = "config/leaves_us_in_peace.json"
+hash = "53939ff218bd4ca3a4d3d0b666d465d7eee35484a6aa98d1adfe4aa9555637ee"
+
+[[files]]
+file = "config/replantingcrops.json5"
+hash = "58ec1ad4dab7ebcd4c7083ad3bfb278812138a5a7590ed91a788508a009b6280"
+
+[[files]]
+file = "config/respawningshulkers.json5"
+hash = "aa0c3e1e06696899a3f5847bdd32045de28cf13414cba489f5c06263b825e906"
+
+[[files]]
+file = "config/servercore.toml"
+hash = "494caa378dd72b99f4ada837ebd36eeadf38f0a0c796fd389f7d4bdc375ed9a9"
+
+[[files]]
+file = "config/shulkerdropstwo.json5"
+hash = "39e73808f3dc67ae55a5d046fcef8ed54d3f7be961e76e8f2703bbd1c192b656"
+
+[[files]]
+file = "config/silencemobs.json5"
+hash = "663df0fd68843fe4005c12ff61d9ac1270b8b49edee13cb6aa3b218b1af3bc92"
+
+[[files]]
+file = "config/smoothchunk.json"
+hash = "228d16ac3ebb3efe67596f25498f97eb4a626ac108bdc0deb2ddf0bb5c32cde9"
+
+[[files]]
+file = "config/status/status-server.properties"
+hash = "fb79ae814feac57ddf04d6d5f6d1765d33f1b75b42521b53195c7eb7f4215b10"
+
+[[files]]
+file = "config/textile_backup.json5"
+hash = "31ed20dd2f1af9163cb392d96d8e72e4aac991ed4469d70b320ca6b6262d4068"
+
+[[files]]
+file = "config/treeharvester.json5"
+hash = "d16573e9fad9d4ceea9ee664111666b4924e6730b21939ab842a35410de3c3ba"
+
+[[files]]
+file = "config/treeharvester/harvestable_axe_blacklist.txt"
+hash = "a7daeb3c27ef0e2b6aac7d892a38e4dd20866ce50daacefc1af2f50cfa4c0e7d"
+
+[[files]]
+file = "config/unloaded-activity.json"
+hash = "adf2eed01ea860157f1820170186425fc131a492fba9408b7d3a8d277c450416"
+
+[[files]]
+file = "config/youritemsaresafe.json5"
+hash = "8f3a237fd15386a616b5664b7c0847a71be09ab1aecc3180064d0d2790c1603e"
+
+[[files]]
 file = "mods/adaptiveview.pw.toml"
 hash = "8c9b7ff880043ca0c527ce6f51ef23f3f9e530f421cd23c27c5305e446e78b31"
 metafile = true
@@ -199,3 +331,7 @@ metafile = true
 file = "mods/your-items-are-safe.pw.toml"
 hash = "e9fc99724fb2d5cb665005dffda212cd331e0df312b4bfea824ae3aba58c3ad5"
 metafile = true
+
+[[files]]
+file = "shell.nix"
+hash = "ef64fa009ef863accb4c80a4e0ecad2c14293cf04ef3cc20abf9b494fb28dc0a"
